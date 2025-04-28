@@ -1,13 +1,3 @@
----
-```
-       __     __  __  __      __
-   /\ |__)   |  \\|__)/  \\|\\ ||_ 
-  /--\\| \\ .  |__/| \\ \\__/| \\||__
-  
-              WPA/WPA2 support
-```
----
-
 A major security flaw of the Parrot(c) AR.Drone is that you can easily hack them as they use an open network infrastructure.
 One could prank on someone else's flying drone and crash it by simply doing:
 
